@@ -1,0 +1,5 @@
+package model;
+
+public enum TransactionType {
+    DEPOSITO, SAQUE, TRANSFERENCIA_ENVIADA, TRANSFERENCIA_RECEBIDA, AJUSTE_LIMITE
+}
